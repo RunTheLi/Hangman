@@ -4,4 +4,4 @@ building a command line Hangman game where one player plays against the computer
 #source
 https://www.theodinproject.com/lessons/ruby-hangman
 
-#chatgpt 
+#chatgpt #Document
